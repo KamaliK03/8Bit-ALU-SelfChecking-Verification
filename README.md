@@ -52,11 +52,11 @@ The testbench compares actual and expected outputs using case inequality (`!==`)
 
 ### Initial Directed Simulation Waveform
 
-![Initial ALU Waveform](C:\Users\03kam\Desktop\Internshala\initial_simulation_tb.PNG)
+![Initial ALU Waveform](initial_simulation_tb.PNG)
 
 ### Final Self-Checking Simulation Waveform (13 Vectors, 0 Errors)
 
-![Final Self-Checking ALU Waveform](C:\Users\03kam\Desktop\Internshala\final_simulation_tb.PNG)
+![Final Self-Checking ALU Waveform](final_simulation_tb.PNG)
 
 ### Terminal Verification Log
 
@@ -83,8 +83,8 @@ PASS [Test 13] @ 130 ns | Op=011 A=85 B=0 | Out=85 COut=0
   ERROR COUNT = 0
   STATUS      = ALL TESTS PASSED
 =========================================================
+```
 ```text
-
 ## Tools & Technologies
 
 - **Hardware Description Language:** Verilog HDL
