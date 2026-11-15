@@ -83,7 +83,7 @@ PASS [Test 13] @ 130 ns | Op=011 A=85 B=0 | Out=85 COut=0
   ERROR COUNT = 0
   STATUS      = ALL TESTS PASSED
 =========================================================
-```
+```text
 
 ## Tools & Technologies
 
